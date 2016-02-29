@@ -1,0 +1,82 @@
+body {
+  /* typography declarations*/
+  color: #DDAA07;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica", sans-serif;
+  background-color: #FFFFF4;
+}
+
+.masthead-heading,
+.masthead-intro,
+.footer {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+  background-image: url(http://i67.tinypic.com/n2ejj6.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #2F4F4F;
+  border-bottom: solid 1em #2F4F4F
+}
+
+.masthead-intro {
+  margin-bottom: 0.1em;
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 2em;
+}
+
+.masthead-heading {
+  margin-top: -0.2em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 6em;
+  letter-spacing: --0.02;
+  text-transform: uppercase;
+}
+
+.footer {
+  padding: 6em 0;
+  background-color: #2F4F4F;
+}
+
+.qahead {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.aboutme-section,
+.HSH-section,
+.TIM-section,
+.qa-section {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+.aboutme-section > p,
+.HSH-section > p,
+.TIM-section >p,
+.qa-section {
+  font-weight: 300;
+  letter-spacing: 0.05em;
+}
+
+.aboutme-section,
+.HSH-section,
+.TIM-section,
+.qa-section {
+  margin: ;
+  background-color: ;
+}
+
+.social > li {
+  display: inline-block;
+}
+
+.footer > p {
+  color: /*think of snap color*/
+  ;
+}
